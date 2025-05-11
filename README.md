@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! I'm a newbie developer learning programming. I'm familiar with embedded development, PCB design, and both front-end and back-end development, especially on Android.
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true&theme=dark">
+  <img
+    src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true"
+    height=200
+    align="center"
+  />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320&theme=dark">
+  <img
+    src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320"
+    height="200"
+    align="center"
+  />
+</picture>
+</p>
