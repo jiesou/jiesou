@@ -19,16 +19,29 @@ Welcome to my GitHub profile! I'm a newbie developer learning programming. I'm f
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true&theme=dark">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true"
+  />
   <img
     src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true"
-    height=200
+    height="200"
     align="center"
   />
 </picture>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320&theme=dark">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320"
+  />
   <img
     src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320"
     height="200"
