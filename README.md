@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a newbie developer learning programming. I'm familiar with embedded development, PCB design, and both front-end and back-end development, especially on Android.
 
-<p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -28,6 +27,7 @@ Welcome to my GitHub profile! I'm a newbie developer learning programming. I'm f
     srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true"
   />
   <img
+    alt="Github readme stats rating"
     src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api?username=jiesou&count_private=true"
     height="200"
     align="center"
@@ -36,16 +36,12 @@ Welcome to my GitHub profile! I'm a newbie developer learning programming. I'm f
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io%2CBlog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320&theme=dark"
   />
   <img
+    alt="Github readme stats top langs"
     src="https://github-readme-stats-git-main-jiesous-projects.vercel.app/api/top-langs/?username=jiesou&exclude_repo=jiesou.github.io,Blog-Source&count_private=true&hide=c&layout=compact&langs_count=8&card_width=320"
     height="200"
     align="center"
   />
 </picture>
-</p>
